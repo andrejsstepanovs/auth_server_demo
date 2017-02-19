@@ -23,7 +23,8 @@
         "incenteev/composer-parameter-handler": "~2.0",
         "friendsofsymfony/user-bundle": "~2.0@dev",
         "friendsofsymfony/oauth-server-bundle": "dev-master",
-        "willdurand/propel-typehintable-behavior": "*"
+        "willdurand/propel-typehintable-behavior": "*",
+        "javiereguiluz/easyadmin-bundle": "^1.16"
     },
     "require-dev": {
         "sensio/generator-bundle": "~3.0",
